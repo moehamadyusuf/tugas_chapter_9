@@ -1,0 +1,22 @@
+{
+  "name": "tugas_chapter_9",
+  "version": "1.0.0",
+  "description": "assigment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moehamadyusuf/tugas_chapter_9.git"
+  },
+  "keywords": [
+    "tugas"
+  ],
+  "author": "Yusuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moehamadyusuf/tugas_chapter_9/issues"
+  },
+  "homepage": "https://github.com/moehamadyusuf/tugas_chapter_9#readme"
+}
